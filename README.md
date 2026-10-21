@@ -1,5 +1,3 @@
-# slt-pds
-
 # Programación de Sistemas (Compiladores)
 
 ## Notas de clase
