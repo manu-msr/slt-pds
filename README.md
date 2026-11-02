@@ -43,6 +43,11 @@
 	   	Análisis sintáctico ascendente y manejo de errores
 	   </a>
    </li>
+	<li>
+	   <a href="https://drive.google.com/file/d/1B0Oyq0nj7ayFDorGAnWsryGY4KIGdGSb/view?usp=drive_link" target="_blank">
+	   	Traducción dirigida por la sintaxis
+	   </a>
+   </li>
 </ol>
 
 *Anexos*
