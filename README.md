@@ -2,6 +2,8 @@
 
 ## Notas de clase
 
+<img src="imagenes/arbol.png" align="right" width="30%">
+
 <ol>
    <li>
 	   <a href="https://drive.google.com/file/d/19PzHrEmHScHcsPY-ci-hwYNmh-MEbqIz/view?usp=drive_link" target="_blank">
