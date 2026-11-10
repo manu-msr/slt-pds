@@ -50,6 +50,11 @@
 	   	Traducción dirigida por la sintaxis
 	   </a>
    </li>
+	<li>
+	   <a href="https://drive.google.com/file/d/1wtYCflThqbE63L4ya2ViDwqEEffEkTjf/view?usp=drive_link" target="_blank">
+	   	Juicios y verificación de tipos para IMP
+	   </a>
+   </li>
 </ol>
 
 *Anexos*
