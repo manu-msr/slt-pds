@@ -1,8 +1,12 @@
 # Programación de Sistemas (Compiladores)
 
-## Notas de clase
-
 <img src="imagenes/arbol.png" align="right" width="30%">
+
+La programación de sistemas es un área de la computación dedicada al desarrollo de software que permite el funcionamiento y la interacción entre los programas y los recursos de un sistema computacional. Comprende herramientas como compiladores, intérpretes, sistemas operativos y otros programas que proporcionan servicios fundamentales para la ejecución de aplicaciones. Su estudio permite comprender cómo se procesan los lenguajes de programación y cómo se transforman las instrucciones escritas por las personas en operaciones ejecutables por una computadora.
+
+Este curso ofrece una introducción a la construcción de procesadores de lenguajes de programación, abordando las principales etapas del diseño e implementación de un compilador. A lo largo del semestre, las personas estudiantes explorarán el análisis léxico, sintáctico y semántico, así como los fundamentos de la generación de código. Mediante el desarrollo progresivo de un procesador para el lenguaje IMP, aplicarán conceptos de gramáticas, autómatas, estructuras de datos y algoritmos, fortaleciendo su comprensión sobre el funcionamiento interno de los lenguajes de programación y su importancia en la ingeniería de software.
+
+## Notas de clase
 
 <ol>
    <li>
