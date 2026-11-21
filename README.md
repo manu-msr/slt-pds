@@ -59,6 +59,16 @@ Este curso ofrece una introducción a la construcción de procesadores de lengua
 	   	Juicios y verificación de tipos para IMP
 	   </a>
    </li>
+	<li>
+	   <a href="https://drive.google.com/file/d/1t7J7Phg79QqkZj7jNzr9Oy-er59-0IRa/view?usp=drive_link" target="_blank">
+	   	Del ASA validado al código C: generación e integración
+	   </a>
+   </li>
+	<li>
+	   <a href="https://drive.google.com/file/d/1m2uvmh1ok_O3yQMsCfM7zpPRDpz50AIF/view?usp=drive_link" target="_blank">
+	   	Del lenguaje a la máquina lo que el compilador enseñaa sobre programación de sistemas
+	   </a>
+   </li>
 </ol>
 
 *Anexos*
